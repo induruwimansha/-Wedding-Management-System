@@ -12,7 +12,7 @@ A complete Business Analysis project demonstrating requirement gathering, proces
 
 
 <p align="center">
-  <img src="assets/banner.png" alt="Wedding Management System Banner" width="100%">
+  <img src="assets/banner (2).png" alt="Wedding Management System Banner" width="100%">
 </p>
 -----
 🌸 Project Overview
